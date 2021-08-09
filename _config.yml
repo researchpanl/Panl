@@ -1,2 +1,3 @@
-remote_theme: https://github.com/renyuanz/leonids
-
+remote_theme: renyuanz/leonids
+plugins:
+- jekyll-remote-theme
