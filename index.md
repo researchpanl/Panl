@@ -75,14 +75,14 @@ The slides used during the presentation are provided below.
 
 If you would like to help us with the development of PaNL by sharing your ideas and providing us with feedback, you can fill in the following surveys:
 
-[**Qualtrics feedback survey**](https://vuamsterdam.eu.qualtrics.com/jfe/form/SV_6hCewXeIyBsrhsO) 
+[Qualtrics feedback survey](https://vuamsterdam.eu.qualtrics.com/jfe/form/SV_6hCewXeIyBsrhsO) 
 
 <img src="https://user-images.githubusercontent.com/88659505/128721442-f39c7d86-d2f6-47c0-8f38-cbf1330f957d.png" alt="QR code Qualtrics" width="100" height="100">
 
 
 The purpose of this survey is to obtain valuable information and input regarding the usability and functionality of the platform, from the perspective of potential users including researchers and participants. The survey takes approx. 5 minutes to complete.
 
-[**Mentimeter survey**](https://www.menti.com/3sj11mxtid) 
+[Mentimeter survey](https://www.menti.com/3sj11mxtid) 
 
 <img src="https://user-images.githubusercontent.com/88659505/128721518-354436d9-107f-4fe7-b911-51840fd71f9e.png" alt="QR code Mentimeter" width="100" height="100">
 
