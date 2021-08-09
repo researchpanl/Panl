@@ -1,4 +1,3 @@
-# PaNL 
 
 ## What is PaNL?
 An online participant recruitment platform for Social Science and Humanities research in the Netherlands
