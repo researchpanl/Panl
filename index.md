@@ -23,7 +23,7 @@ The platform is developed by Vrije Universiteit Amsterdam in cooperation with no
 
 <img align="left" src="https://user-images.githubusercontent.com/88659505/128700230-a4482fc3-18c5-480f-af59-251373b1a63c.png"  title="Antske Fokkens" hspace="20" width=80 height=100/>
 <img align="left" src="https://user-images.githubusercontent.com/88659505/128700605-96fcf1c5-7289-4324-9a00-cec9de7a590f.png" title="Paulina Pankowska" hspace="20" width=80 height=100/>
-<img align="left" src="./documentation/images/C.png" alt="Developed using Browsersync" title="Browsersync" hspace="20"/>
+<img align="left" src="https://user-images.githubusercontent.com/88659505/128701756-2ce0fe5c-149d-42b4-8646-57d1ebc44ab0.png"  title="Ivar Vermeulen" hspace="20" width=80 height=100/>
 <br/><br/><br/><br/><br/>
 
 
