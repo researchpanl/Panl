@@ -57,10 +57,12 @@ During the presentation, Paulina first provided a short introduction to the plat
 The presentation was well-received and the interactive Q&A session allowed us to obtain valuable feedback, which in turn allowed us to improve the mockups further.
 
 The slides used during the presentation are provided below. 
+
 [ICT.OPEN2021_presentation_slides.pdf](https://github.com/paulinakp/PaNL/files/6955043/ICT.OPEN2021_presentation_slides.pdf)
 
 
 **Interesting links**
+
 [An announcement of the grant award for our platform project on the website of the Vrije Universiteit Amsterdam](https://www.vu.nl/en/news-agenda/news/2020/apr-jun/04-06-platform-digitale-infrastructuur-social-science-and-humanities.aspx) 
 
 [An announcement of the grant award for our platform project on the PDI-SSH website](https://pdi-ssh.nl/en/2020/06/funded-projects-2020-call/)
