@@ -26,7 +26,7 @@ The platform is developed by Vrije Universiteit Amsterdam in cooperation with no
 <img align="center"  src="https://user-images.githubusercontent.com/88659505/128718754-119f78e3-4813-437a-82ee-060608bed37d.png"  title="VU team" /> 
 
 
-*EYRA*
+*EYRA* 
 
 <img align="center" src="https://user-images.githubusercontent.com/88659505/128718646-00814d56-853b-4210-93fa-cf9c3afc6c89.png"  title="Eyra team" /> 
 
