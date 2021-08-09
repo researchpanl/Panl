@@ -13,7 +13,7 @@ The development of PaNL addresses the challenges faced by Netherlands-based acad
 PaNL will help Dutch SSH scholars to remain internationally competitive, while serving Dutch societal research needs. It will also strengthen ties between Dutch Social Sciences and Humanities research communities. 
 
 ## Who is developing PaNL?
-<img align="center" src="https://user-images.githubusercontent.com/88659505/128699903-6ea37d62-7c51-4bad-b276-582450e10bb9.png"  title="Organisations involved" width=100% /> 
+<img align="center" src="https://user-images.githubusercontent.com/88659505/128699903-6ea37d62-7c51-4bad-b276-582450e10bb9.png"  title="Organisations involved" /> 
 
 The platform is developed by Vrije Universiteit Amsterdam in cooperation with not-for-profit platform developer EYRA and established Dutch academic partner SURF. The project is funded by PDI-SSH. 
 
