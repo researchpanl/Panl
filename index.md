@@ -19,24 +19,24 @@ PaNL will help Dutch SSH scholars to remain internationally competitive, while s
 
 The platform is developed by Vrije Universiteit Amsterdam in cooperation with not-for-profit platform developer EYRA and established Dutch academic partner SURF. The project is funded by PDI-SSH. 
 
-### The project team
-**Vrije Universiteit Amsterdam**
+**The project team**
+*Vrije Universiteit Amsterdam*
 
 <img align="center"  src="https://user-images.githubusercontent.com/88659505/128718754-119f78e3-4813-437a-82ee-060608bed37d.png"  title="VU team" /> 
 
 
-**EYRA**
+*EYRA*
 
 <img align="center" src="https://user-images.githubusercontent.com/88659505/128718646-00814d56-853b-4210-93fa-cf9c3afc6c89.png"  title="Eyra team" /> 
 
 
-**SURF**
+*SURF*
 
 <img align="center" src="https://user-images.githubusercontent.com/88659505/128718913-91b4dcf1-d04c-4517-809f-ea8733c20d27.png"  title="SURF team" /> 
 
 ## News & updates 
 
-### PaNL, the official name of our Dutch participant recruitment platform
+**PaNL, the official name of our Dutch participant recruitment platform**
 
 Over the past couple of months, our project team took up the task of choosing a name for our platform.
 
@@ -47,7 +47,7 @@ So without further ado we introduce to you **PaNL** - a recruitment platform for
 We’re very excited about this outcome and cannot wait to promote PaNL to the academic community in the Netherlands and to the wider Dutch society. 
 
  
-### A presentation about the platform during [ICT.OPEN2021](https://www.ictopen.nl/)
+**A presentation about the platform during [ICT.OPEN2021](https://www.ictopen.nl/)**
 
 On Febraury 11, 2021 Paulina Pankowska presented our project during the ICT.OPEN2021 conference. ICT.OPEN2021 was a part of the Dutch Digital Conference organised by NWO and the Ministry of Economic Affairs and Climate Policy. 
 
@@ -59,7 +59,7 @@ The slides used during the presentation are provided below.
 [ICT.OPEN2021_presentation_slides.pdf](https://github.com/paulinakp/PaNL/files/6955043/ICT.OPEN2021_presentation_slides.pdf)
 
 
-### Interesting links
+**Interesting links**
 [An announcement of the grant award for our platform project on the website of the Vrije Universiteit Amsterdam](https://www.vu.nl/en/news-agenda/news/2020/apr-jun/04-06-platform-digitale-infrastructuur-social-science-and-humanities.aspx) 
 
 [An announcement of the grant award for our platform project on the PDI-SSH website](https://pdi-ssh.nl/en/2020/06/funded-projects-2020-call/)
