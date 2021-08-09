@@ -1,6 +1,7 @@
+# PaNL
 
 ## What is PaNL?
-An online participant recruitment platform for Social Science and Humanities research in the Netherlands
+An online participant recruitment platform for Social Science and Humanities research in the Netherlands.
 
 ## Why is PaNL needed?
 Much research within the Social Sciences and Humanities relies on input that can only be obtained from people. 
