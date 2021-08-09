@@ -84,6 +84,6 @@ The purpose of this survey is to obtain valuable information and input regarding
 <img src="https://user-images.githubusercontent.com/88659505/128721518-354436d9-107f-4fe7-b911-51840fd71f9e.png" alt="QR code Mentimeter" width="100" height="100">
 
 
-The purpose of this survey is to obtain feedback on the mockups of the participant landing page, from the perspective of potential users including researchers and participants. The survey takes approx. 5 minutes to complete.
+The purpose of this survey is to obtain feedback on the mockups of the participant landing page, from the perspective of potential users including researchers and participants. The survey takes approx. 5 minutes to complete. 
 
 
