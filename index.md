@@ -1,3 +1,20 @@
+# PaNL 
+
+## What is PaNL?
+### An online participant recruitment platform for Social Science and Humanities research in the Netherlands
+
+## Why is PaNL needed?
+Much research within the Social Sciences and Humanities relies on input that can only be obtained from people. Although international online platforms exist to recruit human participants, these are unusable for research bound to the Dutch linguistic and/or cultural context.  Moreover, GDPR regulations prohibit Dutch researchers from storing data outside EU borders. Finally, criticism regarding existing platform's data quality and ethics signals a need for homegrown alternatives.
+
+## How does PaNL solve the current problems? 
+The development of PaNL addresses the challenges faced by Netherlands-based academic researchers by providing them with an affordable, sustainable, and secure online participant/annotator recruitment platform. PaNL will help Dutch SSH scholars to remain internationally competitive, while serving Dutch societal research needs. It will also strengthen ties between Dutch Social Sciences and Humanities research communities. 
+
+## Who is developing PaNL?
+The platform is developed by Vrije Universiteit Amsterdam in cooperation with not-for-profit platform developer EYRA and established Dutch academic partner SURF. The project is funded by PDI-SSH. 
+
+![Image](C:\Users\ppa390\Desktop\postdoc\Platform_admin\logos.png) 
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/paulinakp/panl.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
