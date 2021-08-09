@@ -18,7 +18,7 @@ PaNL will help Dutch SSH scholars to remain internationally competitive, while s
 
 The platform is developed by Vrije Universiteit Amsterdam in cooperation with not-for-profit platform developer EYRA and established Dutch academic partner SURF. The project is funded by PDI-SSH. 
 
-**The project team**
+**The project team** 
 
 *Vrije Universiteit Amsterdam*
 
