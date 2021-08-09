@@ -21,16 +21,19 @@ The platform is developed by Vrije Universiteit Amsterdam in cooperation with no
 ### The project team
 **Vrije Universiteit Amsterdam**
 
-<img align="center"  src="https://user-images.githubusercontent.com/88659505/128715076-f0965341-40d7-4856-ba6a-fd7ade6f4e8f.png"  title="VU team" /> 
+<img align="center"  src="https://user-images.githubusercontent.com/88659505/128718754-119f78e3-4813-437a-82ee-060608bed37d.png"  title="VU team" /> 
+
 
 **EYRA**
 
-<img align="center" src="https://user-images.githubusercontent.com/88659505/128716793-a2dabb9b-d395-4b9e-b255-446fd76b017a.png"  title="Eyra team" /> 
+<img align="center" src="https://user-images.githubusercontent.com/88659505/128718646-00814d56-853b-4210-93fa-cf9c3afc6c89.png"  title="Eyra team" /> 
 
 
 **SURF**
 
-<img align="center" src="https://user-images.githubusercontent.com/88659505/128717523-35cd5fc4-e6df-43e4-ba8e-86eb56212330.png"  title="SURF team" /> 
+<img align="center" src="https://user-images.githubusercontent.com/88659505/128718913-91b4dcf1-d04c-4517-809f-ea8733c20d27.png"  title="SURF team" /> 
+
+
 
 ## Welcome to GitHub Pages
 
