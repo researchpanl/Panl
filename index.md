@@ -1,4 +1,4 @@
- <font size="24"> PaNL - participant recruitment platform for research in the Netherlands  </font>
+ <font size="24"> PaNL - participant recruitment platform for research in the Netherlands </font>
 
 
 ## What is PaNL?  
