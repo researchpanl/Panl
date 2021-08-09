@@ -55,7 +55,7 @@ During the presentation, Paulina first provided a short introduction to the plat
 
 The presentation was well-received and the interactive Q&A session allowed us to obtain valuable feedback, which in turn allowed us to improve the mockups further.
 
-A recording of the presentation and the slides show are provided below. 
+The slides used during the presentation are provided below. 
 [ICT.OPEN2021_presentation_slides.pdf](https://github.com/paulinakp/PaNL/files/6955043/ICT.OPEN2021_presentation_slides.pdf)
 
 
