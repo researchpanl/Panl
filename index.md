@@ -1,4 +1,3 @@
-# PaNL - participant recruitment platform for research in the Netherlands
 
 ## What is PaNL? 
 A sustainable, trustworthy, and user-friendly platform that provides Dutch Social Science and Humanities researchers with an easy access to a high-quality and sufficiently large participant pool of Dutch citizens and students, who in turn experience benefits and feel valued by contributing to research. 
