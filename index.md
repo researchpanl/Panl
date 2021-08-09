@@ -1,5 +1,4 @@
-# PaNL
-# An online participant recruitment platform for Social Science and Humanities research in the Netherlands
+# PaNL - an online participant recruitment platform for Social Science and Humanities research in the Netherlands
 
 ## What is PaNL?
 A sustainable, trustworthy, and user-friendly platform that provides Dutch SSH researchers with an easy access to a high-quality and sufficiently large participant pool of Dutch citizens and students, who in turn experience benefits and feel valued by contributing to research. 
@@ -46,6 +45,7 @@ So without further ado we introduce to you **PaNL** - a recruitment platform for
 
 We’re very excited about this outcome and cannot wait to promote PaNL to the academic community in the Netherlands and to the wider Dutch society. 
 
+ 
 ### A presentation about the platform during [ICT.OPEN2021](https://www.ictopen.nl/)
 
 On Febraury 11, 2021 Paulina Pankowska presented our project during the ICT.OPEN2021 conference. ICT.OPEN2021 was a part of the Dutch Digital Conference organised by NWO and the Ministry of Economic Affairs and Climate Policy. 
@@ -55,10 +55,16 @@ During the presentation, Paulina first provided a short introduction to the plat
 The presentation was well-received and the interactive Q&A session allowed us to obtain valuable feedback, which in turn allowed us to improve the mockups further.
 
 A recording of the presentation and the slides show are provided below. 
-
-
-
 [ICT.OPEN2021_presentation_slides.pdf](https://github.com/paulinakp/PaNL/files/6955043/ICT.OPEN2021_presentation_slides.pdf)
+
+
+### Interesting links
+[An announcement of the grant award for our platform project on the website of the Vrije Universiteit Amsterdam](https://www.vu.nl/en/news-agenda/news/2020/apr-jun/04-06-platform-digitale-infrastructuur-social-science-and-humanities.aspx) 
+
+[An announcement of the grant award for our platform project on the PDI-SSH website](https://pdi-ssh.nl/en/2020/06/funded-projects-2020-call/)
+
+[Some information about the project on the website of the Resilience Institute of the Faculty of Social Sciences of Vrije Universiteit Amsterdam](https://www.resilience-institute.nl/en/expertise-labs/societal-impact-of-digital-media-sim-lab/the-internet-and-social-media/recruitment/)
+
 
 
 ## Get involved
@@ -79,37 +85,4 @@ The purpose of this survey is to obtain valuable information and input regarding
 
 The purpose of this survey is to obtain feedback on the mockups of the participant landing page, from the perspective of potential users including researchers and participants. The survey takes approx. 5 minutes to complete.
 
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/paulinakp/panl.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
- 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/paulinakp/panl.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
