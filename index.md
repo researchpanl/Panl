@@ -1,4 +1,4 @@
-PaNL - participant recruitment platform for research in the Netherlands
+PaNL - participant recruitment platform for research in the Netherlands 
 ============== 
 
 ## What is PaNL? 
