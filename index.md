@@ -4,20 +4,20 @@
 
 **<font size="5"> An online participant recruitment platform for research in the Netherlands</font>**    
 
-## What is PaNL? 
+## What is Panl? 
 A sustainable, trustworthy, and user-friendly platform that provides Dutch Social Science and Humanities researchers with an easy access to a high-quality and sufficiently large participant pool of Dutch citizens and students, who in turn experience benefits and feel valued by contributing to research. 
 
-## Why is PaNL needed?  
+## Why is Panl needed?  
 Much research within the Social Sciences and Humanities relies on input that can only be obtained from people. 
 
 Although international online platforms exist to recruit human participants, these are unusable for research bound to the Dutch linguistic and/or cultural context. Moreover, GDPR regulations prohibit Dutch researchers from storing data outside EU borders. Finally, criticism regarding existing platform's data quality and ethics signals a need for homegrown alternatives.
 
-## How does PaNL help? 
+## How does Panl help? 
 The development of PaNL addresses the challenges faced by Netherlands-based academic researchers by providing them with an affordable, sustainable, and secure online participant/annotator recruitment platform. 
 
 PaNL will help Dutch SSH scholars to remain internationally competitive, while serving Dutch societal research needs. It will also strengthen ties between Dutch Social Sciences and Humanities research communities. 
 
-## Who is developing PaNL?
+## Who is developing Panl?
 <img align="center" src="https://user-images.githubusercontent.com/88659505/128699903-6ea37d62-7c51-4bad-b276-582450e10bb9.png"  title="Organisations involved" /> 
 
 The platform is developed by Vrije Universiteit Amsterdam in cooperation with not-for-profit platform developer EYRA and established Dutch academic partner SURF. The project is funded by PDI-SSH. 
@@ -40,13 +40,13 @@ The platform is developed by Vrije Universiteit Amsterdam in cooperation with no
 
 ## News & updates 
 
-**PaNL, the official name of our Dutch participant recruitment platform**
+**Panl, the official name of our Dutch participant recruitment platform**
 
 Over the past couple of months, our project team took up the task of choosing a name for our platform.
 
 As two heads are better than one, or in this case as several hundred heads are better than a few, we decided to organize a student competition and see whether our students in the Communication Science Department and the Faculty of Humanities could help us to come up with a catchy, suitable name. We received many interesting and creative suggestions, and after several deliberations we chose our winner, a proposal submitted by one of our students Inbar Ben Gera.
 
-So without further ado we introduce to you **PaNL** - a recruitment platform for SSH research in the Netherlands. We think that this is a fitting name as it is a word play containing a reference to a research panel (which is a group of people who participate in studies and fill in surveys) and to the Dutch context of the platform.
+So without further ado we introduce to you **Panl** - a recruitment platform for SSH research in the Netherlands. We think that this is a fitting name as it is a word play containing a reference to a research panel (which is a group of people who participate in studies and fill in surveys) and to the Dutch context of the platform.
 
 We’re very excited about this outcome and cannot wait to promote PaNL to the academic community in the Netherlands and to the wider Dutch society. 
 
