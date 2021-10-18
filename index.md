@@ -1,6 +1,6 @@
 <img align="center"  src="https://user-images.githubusercontent.com/92731214/137739141-92061aeb-83ec-44de-af87-367273844377.png"  title="panl" width="240" height="100"/> 
 
-**<font size="5"> An online participant recruitment platform for research in the Netherlands</font>**    
+**<font size="3"> An online participant recruitment platform for research in the Netherlands</font>**    
 
 ## What is Panl? 
 A sustainable, trustworthy, and user-friendly platform that provides Dutch Social Science and Humanities researchers with an easy access to a high-quality and sufficiently large participant pool of Dutch citizens and students, who in turn experience benefits and feel valued by contributing to research. 
