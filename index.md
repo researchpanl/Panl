@@ -1,6 +1,4 @@
-
-![Panl liggend](https://user-images.githubusercontent.com/92731214/137739141-92061aeb-83ec-44de-af87-367273844377.png)
-
+<img align="center"  src="https://user-images.githubusercontent.com/92731214/137739141-92061aeb-83ec-44de-af87-367273844377.png"  title="panl" /> 
 
 **<font size="5"> An online participant recruitment platform for research in the Netherlands</font>**    
 
