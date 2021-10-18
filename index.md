@@ -5,7 +5,7 @@
 ## What is Panl? 
 A sustainable, trustworthy, and user-friendly platform that provides Dutch Social Science and Humanities researchers with an easy access to a high-quality and sufficiently large participant pool of Dutch citizens and students, who in turn experience benefits and feel valued by contributing to research. 
 
-## Why is Panl needed?  
+## Why is Panl needed?
 Much research within the Social Sciences and Humanities relies on input that can only be obtained from people. 
 
 Although international online platforms exist to recruit human participants, these are unusable for research bound to the Dutch linguistic and/or cultural context. Moreover, GDPR regulations prohibit Dutch researchers from storing data outside EU borders. Finally, criticism regarding existing platform's data quality and ethics signals a need for homegrown alternatives.
