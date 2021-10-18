@@ -10,7 +10,7 @@ Much research within the Social Sciences and Humanities relies on input that can
 
 Although international online platforms exist to recruit human participants, these are unusable for research bound to the Dutch linguistic and/or cultural context. Moreover, GDPR regulations prohibit Dutch researchers from storing data outside EU borders. Finally, criticism regarding existing platform's data quality and ethics signals a need for homegrown alternatives.
 
-## How does Panl help? 
+## How does Panl help?
 The development of PaNL addresses the challenges faced by Netherlands-based academic researchers by providing them with an affordable, sustainable, and secure online participant/annotator recruitment platform. 
 
 PaNL will help Dutch SSH scholars to remain internationally competitive, while serving Dutch societal research needs. It will also strengthen ties between Dutch Social Sciences and Humanities research communities. 
